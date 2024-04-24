@@ -1,0 +1,22 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Playfair Display', serif;
+}
+
+p {
+    text-align: justify;
+    text-indent: 50px;
+}
+
+h1{
+    text-align: left;
+}
+
+.letter{
+    text-align: center;
+    margin: 400px;
+}
